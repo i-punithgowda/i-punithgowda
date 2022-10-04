@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/i-punithgowda/i-punithgowda/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner.png)]
+[![MasterHead](https://github.com/i-punithgowda/i-punithgowda/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner.png)]()
 <h1 align="center">Hi 👋, I'm Punith Gowda</h1>
 <h3 align="center">A full stack we developer</h3>
 
