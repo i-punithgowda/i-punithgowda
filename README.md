@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/i-punithgowda/i-punithgowda/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner.png)](https://portfolio-nine-phi-52.vercel.app/)
-<h1 align="center">Hi 👋, I'm Punith Gowda</h1>
-<h3 align="center">A full stack we developer</h3>
+<h1 align="center">Hi, I'm Punith Gowda</h1>
+<h3 align="center">A full stack web developer</h3>
 
 - 🔭 I’m currently working on [React native project](https://github.com/i-punithgowda/KAMADHENU)
 
