@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Punith Gowda</h1>
 <h3 align="center">A full stack web developer</h3>
 
-- 🔭 I’m currently working on [React native project](https://github.com/i-punithgowda/KAMADHENU)
+- 🔭 I’m currently working on [Website for an event organized by MCA Department of RV College of Engineering]([https://github.com/i-punithgowda/KAMADHENU](https://github.com/puneethkumar-v/exceptions-frontend)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Java :)**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nine-phi-52.vercel.app/](https://portfolio-nine-phi-52.vercel.app/)
 
