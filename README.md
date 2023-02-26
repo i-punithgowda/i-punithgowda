@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Punith Gowda</h1>
 <h3 align="center">A full stack web developer</h3>
 
-- 🔭 I’m currently working on [Website for an event organized by MCA Department of RV College of Engineering](https://github.com/puneethkumar-v/exceptions-frontend)
+- 🔭 I’m currently working on [Website for an event organized by MCA Department of RV College of Engineering](https://exceptions.rvce.edu.in)
 
 - 🌱 I’m currently learning **Java :)**
 
